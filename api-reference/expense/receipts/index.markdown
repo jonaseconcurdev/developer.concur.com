@@ -87,7 +87,6 @@ Name | Type | Format | Description
 Name | Type | Format | Description
 -----|------|--------|------------						
 `Amount`	|	`Decimal`	|	-	|	**Required** The total charged amount for the line item. Range: -922,337,203,685,477 to 922,337,203,685,477
-`Date`	|	`DateTime`	|	-	|	The date and time when the line item was charged (in Coordinated Universal Time, aka UTC). Format: YYYY-MM-DDThh:mm
 `Description`	|	`string`	|	-	|	**Required** The item's description. Maximum length: 100 characters
 `Description2`	|	`string`	|	-	|	Additional details about the item. In the receipt image, the secondary description appears on the line following the primary description. Maximum length: 32 characters
 `Quantity`	|	`Int32`	|	-	|	The quantity of units. Format: Any positive number
