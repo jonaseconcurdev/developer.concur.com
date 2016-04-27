@@ -224,6 +224,7 @@ Name | Type | Format | Description
 `LIST`|List Item Web Service
 `MTNG`|Meeting Web Service
 `PAYBAT`|Payment Batch Web Service
+`PMTREQ`|Payment Request Web Service
 `TRVPRF`|Travel Profile Web Service
 `TRVREQ`|Travel Request Web Service
 `TWS`|Trip Approval Web Service
